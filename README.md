@@ -1,3 +1,7 @@
+# Karplus Strong demo in React
+
+This is demo of use the mathod of Karplus Strong to build an virtual Guiar and play chords. Later, I will add more ui to it so it can play chord easily.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
